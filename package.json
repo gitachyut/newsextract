@@ -18,7 +18,7 @@
     "googleapis": "^52.1.0",
     "newsapi": "^2.4.0",
     "node-fetch": "^2.6.0",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "random-useragent": "^0.3.1",
     "rss-feed-emitter": "^3.1.2"
   }
